@@ -1,1 +1,1 @@
-# hse-NNs-rs
+# hse-NNs
